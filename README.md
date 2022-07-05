@@ -1,2 +1,2 @@
-# rxjs-dome
+# rxjs-demo
 rxjs学习
